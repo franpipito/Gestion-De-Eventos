@@ -1,22 +1,34 @@
 # 🚀PROYECTO FINAL ALGORITMOS Y PROGRAMACION UNAJ
-  Este es el proyecto final en C# que me llevó directo al 10 en Algoritmos y Programación en UNAJ. 
-
-# 🚀 ¡ProyectoBrillante: el proyecto que me llevó al 10!
-
-> **“Este es el trabajo que me llevó a obtener un 10 en Algoritmos y Programación.”**
+  **Este es el proyecto final en C# que me llevó directo al 10 en Algoritmos y Programación en UNAJ**
 
 ---
 
-## 📚 Descripción formal
+## 📚 Descripción 
 
-En este **Proyecto Final** de la materia **Algoritmos y Programación** (UNAJ), he integrado los conceptos y prácticas vistas en clase para construir una aplicación de consola modular, robusta y fácil de mantener. Durante el desarrollo trabajé con:
+Este **Proyecto Final** de la materia **Algoritmos y Programación** (UNAJ) es una **aplicación de consola** en C# que agrupa todas las habilidades vistas en clase, con las siguientes funcionalidades:
 
-- **Estructuras de datos**: arrays y ArrayList.  
-- **Tipos de datos y conversiones**: `int`, `double`, `string`, `bool` y conversiones seguras.  
-- **Operadores y sentencias de control**: `if-else`, `switch`, bucles `for`, `while` y `do-while`.  
-- **Manipulación de strings**: concatenación, formateo y búsqueda.  
-- **Funciones**: definición, parámetros y retorno de valores.  
-- **TADs (Tipos Abstractos de Datos)** personalizados: listas dinámicas y pilas sencillas.  
+- ➕ **Carga de registros**  
+  Permite al usuario ingresar entidades (código, descripción, valor, etc.) y las guarda en memoria usando arrays y ArrayList.  
+
+- 📋 **Listado dinámico**  
+  Muestra por pantalla todos los registros almacenados con su información formateada.  
+
+- 🔍 **Búsqueda y eliminación**  
+  Busca un registro por código y, si existe, lo muestra o lo elimina de la colección.  
+
+- 🧮 **Cálculos y métricas**  
+  - Suma de valores  
+  - Cálculo de promedios  
+  - Porcentaje de registros que cumplen cierta condición  
+
+- 🔄 **Menú interactivo**  
+  Un bucle principal que ofrece opciones numeradas (`1. Cargar`, `2. Listar`, `3. Calcular métricas`, `4. Borrar`, `0. Salir`) y valida cada entrada.  
+
+- 🔧 **Modularidad mediante funciones**  
+  Cada operación está encapsulada en funciones separadas que reciben parámetros y devuelven resultados claros.  
+
+- 📚 **Tipos Abstractos de Datos (TADs)**  
+  Implementación de listas dinámicas y pilas sencillas para prácticas de estructuras avanzadas.  
 
 ---
 
@@ -24,7 +36,7 @@ En este **Proyecto Final** de la materia **Algoritmos y Programación** (UNAJ), 
 
 - **Lenguaje**: C#  
 - **IDE**: SharpDevelop  
-- **Interfaz**: Consola (CLI)  
+- **Entorno**: Consola (CLI) sobre .NET Framework   
 
 ---
 
