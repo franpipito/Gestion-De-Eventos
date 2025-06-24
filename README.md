@@ -41,10 +41,13 @@ Este **Proyecto Final** de la materia **Algoritmos y Programación** (UNAJ) es u
 ---
 
 
-## 📝 Autor y licencia
+---
 
-Autor ✍️  
-Franco Pipito – Estudiante de Ingeniería Informática – UADE  
+## 📝 Autor
 
-💻 GitHub: https://github.com/franpipito  
-💼 LinkedIn: https://www.linkedin.com/in/francopipito  
+👨‍💻 **Franco Pipito**  
+Estudiante de Ingeniería Informática – UNAJ 
+📍 Proyecto desarrollado en el marco de la materia *Algoritmos y Programación* (UNAJ)  
+🔗 GitHub: [franpipito](https://github.com/franpipito)  
+🔗 LinkedIn: [francopipito](https://www.linkedin.com/in/francopipito)
+  
