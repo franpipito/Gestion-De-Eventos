@@ -1,11 +1,11 @@
 # 🚀PROYECTO FINAL ALGORITMOS Y PROGRAMACION UNAJ
-  **Este es el proyecto final en C# que me llevó directo al 10 en Algoritmos y Programación en UNAJ**
+  **Este es el proyecto final en C# .NET que me llevó directo al 10 en Algoritmos y Programación en UNAJ**
 
 ---
 
 ## 📚 Descripción 
 
-Este **Proyecto Final** de la materia **Algoritmos y Programación** (UNAJ) es una **aplicación de consola** en C# que agrupa todas las habilidades vistas en clase, con las siguientes funcionalidades:
+Este **Proyecto Final** de la materia **Algoritmos y Programación** (UNAJ) es una **aplicación de consola** en C# .NET que agrupa todas las habilidades vistas en clase, con las siguientes funcionalidades:
 
 - ➕ **Carga de registros**  
   Permite al usuario ingresar entidades (código, descripción, valor, etc.) y las guarda en memoria usando arrays y ArrayList.  
